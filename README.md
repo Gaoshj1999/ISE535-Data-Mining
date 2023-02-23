@@ -1,5 +1,5 @@
 # ISE535-Data-Mining
-Homework for data mining using R.
+Homeworks for data mining using R.
 The contents include:
 1. R practice
 2. Hypothesis test
